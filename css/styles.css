@@ -1,3 +1,23 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Montserrat-Bold', sans-serif;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: unset;
+}
+
 
 body {
     text-align: center;
@@ -11,7 +31,7 @@ body {
     font-weight: bold;
 }
 .nav-item {
-    padding: 0 18px;
+    padding: 0 20px;
 }
 
 /* HOME-SECTION */
@@ -27,9 +47,8 @@ body {
 
 .doc-subtitle {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 2remm;
+    font-size: 2rem;
     color: #5C2E7E;
-    padding-top: 4%;
 }
 .doc-title {
     color: #000000;
@@ -46,7 +65,7 @@ body {
 }
 
 .section-subtitle {
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 0;
     font-size: 3rem;
 }
@@ -59,6 +78,10 @@ body {
 }
 
 /* BIO SECTION */
+/* .bio-section {
+    margin-top: 90px;
+} */
+
 .bio-img {
     padding-bottom: 20px;
 }
@@ -158,26 +181,6 @@ ont-family: 'Ubuntu', sans-serif; */
     height: 64px;
 }
 
-#about, #experience, #skills, #portfolio  {
+#home, #about, #experience, #skills, #portfolio  {
     padding-top: 90px;
-}
-
-h1, h2, h3, h4, h5, h6, p {
-    font-family: 'Montserrat-Bold', sans-serif;
-}
-
-h2 {
-    font-weight: 900;
-}
-
-h3 {
-    font-weight: 700;
-}
-
-p {
-    font-size: 1.5rem;
-}
-
-a {
-    text-decoration: unset;
 }
