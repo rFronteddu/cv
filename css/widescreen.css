@@ -41,8 +41,8 @@ body {
 }
 
 .profile-pic {
-    width: 35%;
-    height: 35%;
+    width: 60%;
+    height: 60%;
 }
 
 .doc-subtitle {
@@ -50,6 +50,7 @@ body {
     font-size: 2rem;
     color: #5C2E7E;
 }
+
 .doc-title {
     color: #000000;
     font-weight: 900;

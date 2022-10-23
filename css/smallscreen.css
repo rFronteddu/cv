@@ -1,0 +1,175 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Montserrat-Bold', sans-serif;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: unset;
+}
+
+
+body {
+    text-align: center;
+}
+
+
+/* NAV-BAR */
+.navbar {
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+.nav-item {
+    padding: 0 20px;
+}
+
+/* HOME-SECTION */
+.home-section {
+    text-align: center;
+    background-color: #8BBCCC;
+}
+
+.profile-pic {
+    width: 100%;
+    height: 100%;
+}
+
+.doc-subtitle {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    color: #5C2E7E;
+}
+
+.doc-title {
+    color: #000000;
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 2rem;
+}
+
+/* SECTION SHARED */
+.section-title {
+    text-align: left;
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+.section-subtitle {
+    margin-top: 40px;
+    margin-bottom: 0;
+    font-size: 3rem;
+}
+
+.section-p {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.5rem;
+    line-height: 1.8;
+}
+
+.bio-img-div {
+    padding-bottom: 40px;
+}
+
+.bio-img {
+    width: 64px;
+    height: 100px;
+}
+
+.bio-p {
+    text-align: just;
+}
+
+/* EXPERIENCE SECTION */
+
+.experience-section {
+    text-align: left;
+    background-color: #8BBCCC;
+}
+
+.experience-title {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-weight: 900;
+}
+
+.experience-subtitle {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.4rem;
+    line-height: 1;
+}
+
+.experience-entry {
+    margin-top: 20px;
+}
+
+/* SKILL SECTION */
+
+.skill-box {
+    text-align: center;
+}
+
+.skill-box-image {
+    width: 64px;
+    height: 64px;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+/* PORTFOLIO SECTION */
+.portfolio-section {
+    text-align: left;
+    background-color: #8BBCCC;
+}
+
+.carousel {
+    text-align: center;
+    height: 1150px;
+}
+
+.language-box-image {
+    margin: 1.5% 0.7%;
+    width: 64px;
+    height: 64px;
+}
+
+.project-img {
+    margin-bottom: 1.5%;
+    width: 350px;
+    height: 175px;
+}
+
+.project-text {
+    margin: auto;
+    text-align: justify;
+    width: 80%;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
+    width: 64px;
+    height: 64px;
+}
+
+#home, #about, #experience, #skills, #portfolio  {
+    padding-top: 60px;
+}
