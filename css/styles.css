@@ -1,0 +1,183 @@
+
+body {
+    text-align: center;
+}
+
+
+/* NAV-BAR */
+.navbar {
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+.nav-item {
+    padding: 0 18px;
+}
+
+/* HOME-SECTION */
+.home-section {
+    text-align: center;
+    background-color: #8BBCCC;
+}
+
+.profile-pic {
+    width: 35%;
+    height: 35%;
+}
+
+.doc-subtitle {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2remm;
+    color: #5C2E7E;
+    padding-top: 4%;
+}
+.doc-title {
+    color: #000000;
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 4.3rem;
+}
+
+/* SECTION SHARED */
+.section-title {
+    text-align: left;
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+.section-subtitle {
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 3rem;
+}
+
+.section-p {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.5rem;
+    line-height: 1.8;
+}
+
+/* BIO SECTION */
+.bio-img {
+    padding-bottom: 20px;
+}
+
+.bio-p {
+    text-align: justify;
+}
+
+/* EXPERIENCE SECTION */
+
+.experience-section {
+    text-align: left;
+    background-color: #8BBCCC;
+}
+
+.experience-title {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 2rem;
+    line-height: 1;
+    font-weight: 900;
+}
+
+.experience-subtitle {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.7rem;
+    line-height: 1;
+}
+
+.experience-entry {
+    margin-top: 1.5%;
+}
+
+/* SKILL SECTION */
+
+.skill-box {
+    text-align: center;
+}
+
+.skill-box-image {
+    width: 64px;
+    height: 64px;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+/* PORTFOLIO SECTION */
+.portfolio-section {
+    text-align: left;
+    background-color: #8BBCCC;
+}
+
+.carousel {
+    text-align: center;
+    height: 900px;
+}
+
+.language-box-image {
+    margin: 1.5% 0.7%;
+    width: 64px;
+    height: 64px;
+}
+
+.project-img {
+    margin-bottom: 1.5%;
+    width: 700px;
+    height: 350px;
+}
+
+.project-text {
+    margin: auto;
+    text-align: justify;
+    width: 80%;
+}
+
+/* Fonts */
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+ont-family: 'Ubuntu', sans-serif; */
+
+/* Colors */
+/* #8BBCCC
+#4C6793
+#5C2E7E
+#000000 */
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
+    width: 64px;
+    height: 64px;
+}
+
+#about, #experience, #skills, #portfolio  {
+    padding-top: 90px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Montserrat-Bold', sans-serif;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: unset;
+}
