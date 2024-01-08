@@ -3,8 +3,7 @@
 Experienced software developer and applied researcher with over 8 years of versatile expertise in system software 
 development, programming on Linux and Windows platforms, and a strong focus on networking, 
 communications protocols, and behavior in resource-constrained environments. 
-Proven ability to collaborate with diverse groups of developers and researchers, including collaborations 
-with NATO research groups and US armed forces. Currently residing in Pensacola, FL, holding Green Card status and Italian citizenship.
+Proven ability to collaborate with diverse groups of developers and researchers, including collaborations with several NATO RTGs and US armed forces. Currently residing in Pensacola, FL, holding Green Card status and Italian citizenship.
 
 ## Professional Experience
 
