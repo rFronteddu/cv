@@ -7,7 +7,7 @@ Proven ability to collaborate with diverse groups of developers and researchers,
 
 ## Professional Experience
 
-### IHMC - Software Development Engineer / Applied Researcher (2016 - Present)
+### IHMC - Software Development / Applied Researcher (2016 - Present)
 - Collaborated with cross-functional teams to integrate machine learning algorithms into transport protocols for disrupted environments.
 - Collaborated with cross-functional teams to develop and transition a solution to monitor computer networks in resource-constrained environments.
 - Contributed to the architecture and implementation of a data warehousing solution, managing large datasets efficiently and improving overall system performance.
