@@ -1,9 +1,12 @@
 ## Professional Summary
 
-Experienced software developer and applied researcher with over 8 years of versatile expertise in system software 
-development, programming on Linux and Windows platforms, and a strong focus on networking and
-communications protocols applied to resource-constrained environments. 
-Proven ability to collaborate with diverse groups of developers and researchers, including collaborations with several NATO RTGs and US armed forces. Currently residing in Pensacola, FL.
+Experienced software developer and applied researcher with over 8 years of versatile expertise in system software development, programming on Linux, Windows, and mobile platforms, and a strong focus on networking and communications protocols applied to resource-constrained environments. 
+
+Proven ability to collaborate with diverse groups of developers and researchers, including collaborations with several NATO RTGs and US armed forces. 
+
+Skilled in serving as a connector across interdisciplinary boundaries, facilitating the integration of diverse knowledge and methodologies within heterogeneous teams of researchers and developers.
+
+Currently residing in Pensacola, FL.
 
 ## Professional Experience
 
